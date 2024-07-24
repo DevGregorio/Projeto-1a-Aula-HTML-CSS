@@ -1,0 +1,21 @@
+body {
+    width: 100%;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    background-color: #DCCB69;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+header {
+    font-size: 25px;
+}
+img {
+    border-radius: 12px;
+}
+footer {
+    margin-top: 80px;
+}
+footer img {
+    width: 60px;
+}
